@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "countryId": 1,
+    "name": "Las Vegas",
+    "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,h_529,q_75,w_355/v1/clients/lasvegas/header3_7253ae73-c27a-439c-bfb2-ca9de3fe2c94.jpg",
+    "description": "Las Vegas, officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populated city in the United States, the most populated city in the state of Nevada, and the county seat of Clark County.",
+    "hotelCount": 10,
+    "location": {
+      "latitude": 36.1699,
+      "longitude": -115.1398
+    },
+    "flight": "1h 15 min flight, from UK"
+  },
+  {
+    "id": 2,
+    "countryId": 1,
+    "name": "Los Angeles",
+    "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/22107/square_thumb%402x.jpg",
+    "description": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes.",
+    "hotelCount": 99,
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "flight": "2h 15 min flight, from UK"
+  },
+  {
+    "id": 3,
+    "countryId": 1,
+    "name": "Las Vegas",
+    "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,h_529,q_75,w_355/v1/clients/lasvegas/header3_7253ae73-c27a-439c-bfb2-ca9de3fe2c94.jpg",
+    "description": "Las Vegas, officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populated city in the United States, the most populated city in the state of Nevada, and the county seat of Clark County.",
+    "hotelCount": 10,
+    "location": {
+      "latitude": 36.1699,
+      "longitude": -115.1398
+    },
+    "flight": "1h 15 min flight, from UK"
+  },
+  {
+    "id": 4,
+    "countryId": 1,
+    "name": "Los Angeles",
+    "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/22107/square_thumb%402x.jpg",
+    "description": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes.",
+    "hotelCount": 99,
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "flight": "2h 15 min flight, from UK"
+  },
+  {
+    "id": 5,
+    "countryId": 1,
+    "name": "Las Vegas",
+    "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,h_529,q_75,w_355/v1/clients/lasvegas/header3_7253ae73-c27a-439c-bfb2-ca9de3fe2c94.jpg",
+    "description": "Las Vegas, officially the City of Las Vegas and often known simply as Vegas, is the 28th-most populated city in the United States, the most populated city in the state of Nevada, and the county seat of Clark County.",
+    "hotelCount": 10,
+    "location": {
+      "latitude": 36.1699,
+      "longitude": -115.1398
+    },
+    "flight": "1h 15 min flight, from UK"
+  },
+  {
+    "id": 6,
+    "countryId": 1,
+    "name": "Los Angeles",
+    "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/22107/square_thumb%402x.jpg",
+    "description": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes.",
+    "hotelCount": 99,
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "flight": "2h 15 min flight, from UK"
+  }
+]

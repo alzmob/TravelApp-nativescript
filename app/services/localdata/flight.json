@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Air Bus",
+    "image": "https://img.manufacturing.net/files/base/indm/all/image/2015/06/mnet_46145_airbus_logo.png",
+    "price": 200,
+    "from": "Seattle, United State",
+    "to": "London, United Kingdom",
+    "schedule": [
+      {
+        "departure": "8:00 AM",
+        "arrival": "9:00 AM"
+      },
+      {
+        "departure": "10:00 AM",
+        "arrival": "11:00 AM"
+      },
+      {
+        "departure": "4:00 PM",
+        "arrival": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Boeing 747",
+    "image": "https://d33wubrfki0l68.cloudfront.net/0fbdd2e97b788282c6a723f8d05fda85736750e1/e04bd/assets/imgs/companies/boeing.png",
+    "price": 350,
+    "from": "Las Vegas, United State",
+    "to": "Paris, France",
+    "schedule": [
+      {
+        "departure": "8:00 AM",
+        "arrival": "9:00 AM"
+      },
+      {
+        "departure": "10:00 AM",
+        "arrival": "11:00 AM"
+      },
+      {
+        "departure": "4:00 PM",
+        "arrival": "5:00 PM"
+      }
+    ]
+  }
+]
